@@ -19,7 +19,7 @@ dependencies {
     implementation 'androidx.palette:palette:1.0.0'
     implementation 'androidx.exifinterface:exifinterface:1.1.0'
 
-    compileOnly 'org.checkerframework:checker-qual:2.5.2'
+    compileOnly 'org.checkerframework:checker-qual:3.11.0'
     compileOnly 'org.checkerframework:checker-compat-qual:2.5.0'
     implementation 'com.google.firebase:firebase-messaging:20.1.0'
     implementation 'com.google.firebase:firebase-config:19.1.0'
